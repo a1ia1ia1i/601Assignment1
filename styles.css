@@ -1,0 +1,55 @@
+.wrapper {
+    width: 90%;
+    max-width: 1200px;
+    min-width: 100=00px;
+    margin: auto;
+    text-align: center;
+}
+
+.container {
+    display: block;
+    overflow: hidden;
+    text-align:center
+
+}
+img{
+    width: 250px;
+    height: auto;
+    float: right;
+    margin: -20%;
+    border-radius: 10px;
+    
+}
+
+body{
+    background-color: olivedrab;
+}
+
+h1{
+
+    text-align: center;
+    font-size: 800%;
+    margin-top: 100px;
+    
+}
+
+
+.info, .summary{
+    display: inline-block;
+    vertical-align: top;
+    background-color: bisque;
+    padding: 15px;
+    border-radius: 10px;
+    width: 35%;
+    min-width: 250px;
+    margin: 10px;
+    text-align: left;
+}
+
+
+table{
+background-color: maroon;
+margin: 20px auto;
+width: 80%;
+
+}
